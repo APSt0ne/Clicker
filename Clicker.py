@@ -4,6 +4,7 @@ from pynput.mouse import Controller, Button
 from pynput.keyboard import Listener, KeyCode
 
 toggle_key = KeyCode(char='s')
+print("Push the 'S' button to start clicking.")
 clicking = False
 mouse = Controller()
 
