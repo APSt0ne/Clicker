@@ -1,3 +1,7 @@
-A Simple Clicker For A Browser Game.
+# A Simple Clicker For A Browser Game.
 
-Push the 'S' button to start clicking ten times per second.
+### Use
+```
+Terminal: pip install pynput
+```
+**Push the 'S' button to start clicking ten times per second**
